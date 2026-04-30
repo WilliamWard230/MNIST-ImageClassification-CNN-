@@ -1,1 +1,1 @@
-# MNIST-ImageClassification-CNN-
+# MNIST-ImageClassification-MLP-
